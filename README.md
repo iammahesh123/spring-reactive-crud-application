@@ -26,7 +26,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Spr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/HystrixDemoApplication.git
+    git clone https://github.com/iammahesh123/spring-reactive-crud-application.git
     ```
 
 2. Import the project into your preferred IDE.
